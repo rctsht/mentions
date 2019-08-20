@@ -1,2 +1,2 @@
-# mentions
-React Native TextInput with @mentions
+# @rctsht/mentions
+Text input with @mentions for React Native
