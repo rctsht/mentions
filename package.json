@@ -1,6 +1,6 @@
 {
   "name": "@rctsht/mentions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Text input with @mentions for React Native",
   "main": "index.js",
   "repository": "git@github.com:rctsht/mentions.git",
@@ -33,8 +33,8 @@
     "typescript": "^3.6.3"
   },
   "peerDependencies": {
-    "react": "16.8.6",
-    "react-native": "^0.60.5"
+    "react": "*",
+    "react-native": "*"
   },
   "dependencies": {
     "grapheme-splitter": "^1.0.4",
