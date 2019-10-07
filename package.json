@@ -1,6 +1,6 @@
 {
   "name": "@rctsht/mentions",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Text input with @mentions for React Native",
   "main": "index.js",
   "repository": "git@github.com:rctsht/mentions.git",
